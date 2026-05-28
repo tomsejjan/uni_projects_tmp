@@ -1,5 +1,5 @@
 # Attachment to my CV
-Due to university IP policies regarding academic code, the source files for these projects are kept in a private repository. The entire repository, including the source code will be made public as soon as possible. Below is the architecture and overview of my work.
+Due to university IP policies regarding academic code, the source files for these projects are currently kept in a private repository. The entire repository, including the source code will be made public as soon as possible. Below is the architecture and overview of my work.
 ## Description:
 ```text
 ├───beckhoff_plc                           
